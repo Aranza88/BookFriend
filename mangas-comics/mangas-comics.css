@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* Color de fondo */
+    background-color: #FFFDF2;
+    /* Color de texto */
+    color: #432818;
+    /* Fuente del texto */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
